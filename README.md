@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello — I’m **Elliot Elikplim**.
+Hello — I’m **Akpalu Elliot Elikplim**.
 
 I am the Founder of **PLIMVER**, a cloud platform for modern web apps and WordPress (`https://plimverai.com`), and I serve as Project Officer for **COMPSSA** at Accra Technical University.
 
