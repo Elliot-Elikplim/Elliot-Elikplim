@@ -2,7 +2,7 @@
 
 Hello — I’m **Akpalu Elliot Elikplim**.
 
-I am the Founder of **PLIMVER**, a cloud platform for modern web apps and WordPress (`https://plimverai.com`), and I serve as Project Officer for **COMPSSA** at Accra Technical University.
+I am the Founder of **Zenux Plimver Technologies**, , and I served as a Project Officer for **COMPSSA** at Accra Technical University.
 
 **My mission:** Build reliable, simple-to-use cloud tools that empower developers and teams to deploy and manage applications across Africa and beyond.
 
