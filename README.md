@@ -9,8 +9,8 @@ I am the Founder of **PLIMVER**, a cloud platform for modern web apps and WordPr
 ---
 
 ### What I Do
-- **Founder:** PLIMVER — cloud hosting, WordPress tooling, and developer platforms. [`plimverai.com`](https://plimverai.com)  
-- **Project Officer:** COMPSSA, Accra Technical University — coordinating student projects, technical programs, and community initiatives  
+- **Founder:** 
+- **Former Project Officer: ** COMPSSA, Accra Technical University — coordinating student projects, technical programs, and community initiatives  
 - **Builder:** Platform engineering, deployments, DevOps automation, and platform APIs
 
 ---
@@ -29,7 +29,7 @@ I am the Founder of **PLIMVER**, a cloud platform for modern web apps and WordPr
 ---
 
 ### Contact & Connect
-- **Website:** [`https://plimverai.com`](https://plimverai.com)  
+- **Website:** 
 - **GitHub:** [`https://github.com/Elliot-Elikplim`](https://github.com/Elliot-Elikplim)  
 - **Work inquiries:** Open an issue on this repo or link to the project/repo you’d like to discuss; I’ll follow up.
 
